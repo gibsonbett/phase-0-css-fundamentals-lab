@@ -28,7 +28,7 @@ figcaption{
 }
 
 section#details{
-  background-color: brown;
+  background-color: rgb(235, 16, 16);
   display: flex;
   justify-content: space-evenly;
 }
