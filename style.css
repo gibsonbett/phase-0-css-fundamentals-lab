@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section#featured-property{
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+section#featured-property p{
+  width: 80%;
+}
+
+figcaption{
+  text-align: center;
+}
+
+section#details{
+  background-color: brown;
+  display: flex;
+  justify-content: space-evenly;
+}
+nav a{
+  padding: 0px 10px 0px 10px;
+  background-color: grey;
+}
+img{
+  width: 800px;
+}
